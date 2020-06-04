@@ -61,7 +61,7 @@ while True:
         # Gera deslocamento de tempo aleatório com as configurações
         time_offset = random.randrange(min_firerate * offset_const, max_firerate * offset_const, 1) / offset_const
         time.sleep(time_offset)
-
+        #clicks para da rajada| se modificar os valores é os tiros que dará!
         pyautogui.click(clicks=4)
         pyautogui.click(clicks=4)
     # Atraso no loop while
