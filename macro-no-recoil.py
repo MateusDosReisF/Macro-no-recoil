@@ -1,5 +1,4 @@
 import pyautogui
-from tkinter import *
 import time
 import win32api
 import random
