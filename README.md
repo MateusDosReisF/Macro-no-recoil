@@ -1,1 +1,17 @@
 # Macro-no-recoil
+
+
+
+BEM-VINDOS...
+
+ESSE É UM MACRO PARA QUALQUER MOUSE OU JOGO
+(LEMBRANDO ESSE É UM PROJETO APENAS PARA DIDATICA, NÃO ME RESPONSABILIZO PELO MAU USO!)
+
+<<<---IRÁ NECESSITAR DAS SEGUINTES BIBLIOTECAS --->>>
+**********
+pyautogui |
+time |
+win32api |
+random |
+keyboard |
+*********
